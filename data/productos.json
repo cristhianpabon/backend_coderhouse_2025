@@ -1,12 +1,20 @@
 [
   {
-    "title": "t-shirt",
-    "description": "100% algodon Quicksilver",
-    "code": "AZT240",
-    "price": 200,
-    "status": true,
-    "stock": 3,
-    "category": "remeras",
-    "id": "1734699600804"
+    "title": "pantalon",
+    "description": "gabardina ",
+    "price": 500,
+    "id": "1746493225093"
+  },
+  {
+    "title": "medias",
+    "description": "algodon ",
+    "price": 25,
+    "id": "1746493251668"
+  },
+  {
+    "title": "zapatos",
+    "description": "cuero sintetico",
+    "price": 350,
+    "id": "1746493302045"
   }
 ]
